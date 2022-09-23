@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Andrea91s/Andrea91s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi everyone 👋, I'm Andrea</h1>
+<h3 align="center">PhD in Physics and currently Data Scientist in the business unit for Quantum and Accelerated computing at Reply Data</h3>
 
-Here are some ideas to get you started:
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lostefra&label=Profile%20views&color=0e75b6&style=flat" alt="lostefra" /> </p>
 
 - 🔭 I’m currently working with Data Reply
 - 🌱 I’m currently learning Quantum Computing
