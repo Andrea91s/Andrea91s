@@ -17,11 +17,9 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-
 <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="bash" width="40" height="40"/> </a>
-
 </p>
 
 
@@ -35,11 +33,6 @@
 <a href="https://tortoisegit.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" alt="bash" width="40" height="40"/> </a>
 
 
-
-
-
-
-<a href="" target="_blank"> <img src="" alt="bash" width="40" height="40"/> </a>
    <a href="" target="_blank"> <img src="" alt="bash" width="40" height="40"/> </a>
    <a href="" target="_blank"> <img src="" alt="bash" width="40" height="40"/> </a>
    <a href="" target="_blank"> <img src="" alt="bash" width="40" height="40"/> </a>
@@ -47,7 +40,7 @@
 <a href="" target="_blank"> <img src="" alt="bash" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="" alt="bash" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="" alt="bash" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="" alt="bash" width="40" height="40"/> </a>
+
 
 
 
@@ -58,6 +51,7 @@
    
 <h3 align="left">Libraries:</h3>
 <p align="left">
+<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="bash" width="40" height="40"/> </a>   
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="bash" width="40" height="40"/> </a>  
 <a href="https://networkx.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="bash" width="40" height="40"/> </a> 
@@ -65,12 +59,5 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="bash" width="40" height="40"/> </a>   
 <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/?gclid=CjwKCAjwm8WZBhBUEiwA178UnK14z30XoZ4s2p8xLz7GPP1f2sDzcI-h8Uw7asqEcGyMYlWlzk51-BoCA8YQAvD_BwE" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="bash" width="40" height="40"/> </a>
-   
-   
-   
-   
-   
-   
-   
-   
+<a href="https://www.tidyverse.org/" target="_blank"> <img src="https://github.com/tidyverse/tidyverse.org/blob/master/static/images/hex-tidyverse.png" alt="bash" width="40" height="40"/> </a>
 </p>
